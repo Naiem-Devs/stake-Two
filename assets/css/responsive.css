@@ -1,0 +1,800 @@
+/* Big screen :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    img.Slot-masin {
+        width: 250px;
+        left: 20px;
+        bottom: -25px;
+    }
+    
+    .hero-area {
+        background-position: bottom;
+        background-size: cover;
+    }
+
+section.hero-area.ld_hero {
+    background-size: cover;
+}
+    
+    img.Character_slot {
+        width: 150px;
+        left: 260px;
+        bottom: 0;
+    }
+    
+    img.character_parachute {
+        width: 150px;
+    }
+    
+    img.board_slot {
+        width: 230px;
+    }
+
+    .bonus_content {
+        padding-top: 75px;
+    }
+    
+    .bonus_content ul li {
+        margin-bottom: 10px;
+        line-height: 1.3;
+    }
+    
+    img.Chest {
+        width: 200px;
+    }
+    
+    img.Mascott {
+        width: 120px;
+    }
+    
+    i.separet {
+        margin-left: 50px;
+        margin-right: 30px;
+    }
+    .reg_content > i {
+        max-width: 710px;
+    }
+    
+    img.Character_idk {
+        width: 75px;
+    }
+    
+    img.Btc-2 {
+        width: 60px;
+        bottom: 300px;
+        top: 160px;
+    }
+    section.rafle-area .positon_img img.gift {
+        left: 5%;
+    }
+    
+    img.eypiew {
+        left: 3%;
+    }
+    
+    img.gift2 {
+        right: 14%;
+    }
+    
+    .raffle-inp-blk input {
+        padding: 10px 20px;
+    }
+    
+    .raffle-inp-blk {
+        max-width: 530px;
+    }
+    
+    .raffle-condition p {
+        font-size: 14px;
+    }
+    
+    section.rafle-area {
+        padding-top: 60px;
+    }
+
+}
+
+
+/* Normal screen :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .menu-area ul {
+        gap: 15px;
+    }
+    
+    .menu-area nav ul li a {
+        width: 180px;
+        font-size: 15px;
+    }
+    img.Slot-masin {
+        width: 220px;
+        left: 20px;
+        bottom: -25px;
+    }
+    
+    .hero-area {
+        background-position: bottom;
+        background-size: cover;
+        padding-bottom: 150px;
+    }
+    
+    img.Character_slot {
+        width: 125px;
+        left: 218px;
+        bottom: 0;
+    }
+    
+    img.character_parachute {
+        width: 150px;
+    }
+    
+    img.board_slot {
+        width: 230px;
+    }
+
+    .bonus_content {
+    padding-top: 125px;
+    padding-left: 41px;
+    padding-right: 20px;
+    height: 375px;
+    }
+    
+    .bonus_content ul li {
+        margin-bottom: 10px;
+        line-height: 1.3;
+        font-size: 15px;
+    }
+    
+    img.Chest {
+        width: 198px;
+        right: 20px;
+    }
+    
+    img.Mascott {
+        width: 120px;
+    }
+    
+    i.separet {
+        margin-left: 50px;
+        margin-right: 30px;
+    }
+    .hero_content ul li a {
+        max-width: 330px;
+    }
+    .register_content {
+        width: 100%;
+        max-width: 950px;
+    }
+    
+    .bonus_card {
+        padding: 40px 0 0;
+    }
+    .reg_content {
+        flex-direction: column-reverse;
+        justify-content: center;
+        margin-bottom: -150px;
+    }
+    
+    .visit_content {
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    
+    .reg_content > i {
+        max-width: 700px;
+        margin: auto;
+        bottom: 0;
+    }
+    
+    img.Character_idk {
+        width: 120px;
+    }
+    
+    img.Btc-2 {
+        left: 50px;
+    }
+    img.Btc3 {
+        left: 80px;
+    }
+    section.rafle-area .positon_img img.gift {
+        left: 5%;
+        width: 120px;
+    }
+    
+    img.eypiew {
+        left: 0;
+        width: 35;
+    }
+    
+    img.gift2 {
+        right: 14%;
+        width: 140px;
+    }
+    
+    .raffle-inp-blk input {
+        padding: 10px 20px;
+        margin-top: 10px;
+    }
+    
+    .raffle-inp-blk {
+        max-width: 483px;
+    }
+    
+    .raffle-condition p {
+        font-size: 11px;
+    }
+    
+    section.rafle-area {
+        padding-top: 60px;
+    }
+    .raffle_top {
+        top: -92px;
+    }
+    
+    form.raffle-form button {
+        margin-top: 0;
+    }
+    
+    .raffle-condition > span {
+        font-size: 10px;
+    }
+    
+    .raffle-condition {
+        padding: 35px;
+        padding-left: 50px;
+        right: -28px;
+    }
+}
+
+ 
+/* Tablet screen :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .register_content .form {
+        display: none;
+    }
+    .header-area {
+        margin-top: -7px;
+    }
+    .logo-area {
+        max-width: 130px;
+        margin-bottom: -20px;
+    }
+    
+    .hero-area {
+        background-size: cover;
+        padding: 50px 0 166px;
+    }
+    
+    img.character_parachute {
+        width: 125px;
+        right: 50px;
+        top: 25px;
+    }
+    
+    img.Slot-masin {
+        width: 175px;
+        bottom: -20px;
+        left: 10px;
+    }
+    
+    img.Character_slot {
+        width: 150px;
+        left: 159px;
+    }
+    
+    img.ether {
+        width: 60px;
+        right: 65px;
+    }
+    
+    img.board_slot {
+        width: 170px;
+        bottom: -51px;
+    }
+    
+    img.Linesvg {
+        display: none;
+    }
+    
+    .register_content {
+        padding: 0px 0;
+        width: 100%;
+        margin: auto;
+        text-align: center;
+    }
+    
+    img.Btc {
+        width: 60px;
+    }
+    
+    .sec_title p {
+        font-size: 20px;
+        line-height: 1.3;
+    }
+    
+    .bonus_card {
+        margin-bottom: 50px;
+    }
+    
+    img.Chest {
+        width: 154px;
+        right: 30px;
+    }
+    
+    img.Mascott {
+        width: 100px;
+    }
+    
+    img.Diamond {
+        width: 40px;
+        left: 40px;
+    }
+    
+    .footer_content {
+        flex-direction: column;
+    }
+    
+    i.separet {
+        width: 100%;
+        height: 1px;
+        margin: 20px 0;
+    }
+    
+    .Disclaimer_box {
+        max-width: 630px;
+    }
+    
+    a.f-logo {
+        rotate: 0deg;
+    }
+    
+    footer.footer-area {
+        padding: 30px 0;
+    }
+    
+    .copyright {
+        margin: auto;
+    }
+    
+    .bonus-Area {
+        padding-bottom: 120px;
+    }
+
+    .reg_content {
+        flex-direction: column-reverse;
+        justify-content: center;
+        margin-bottom: -150px;
+    }
+    
+    .visit_content {
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    
+    .reg_content > i {
+        max-width: 600px;
+        margin: auto;
+        bottom: 0;
+    }
+    
+    img.Character_idk {
+        width: 120px;
+    }
+    
+    img.Btc-2 {
+        left: 35px;
+        width: 60px;
+        bottom: 300px;
+    }
+    .reg_hero .hero_content {
+        margin-bottom: 80px;
+    }
+    
+    .reg_content i a {
+        font-size: 16px;
+        padding: 15px 15px;
+    }
+    
+    .reg_info {
+        margin: auto;
+    }
+    
+    .reg_info p {
+        border-radius: 20px;
+    }
+    img.Btc3 {
+        width: 60px;
+        left: 50px;
+        top: 140px;
+    }
+    .raffle_top {
+        top: -104px;
+    }
+    
+    form.raffle-form button {
+        margin-top: 0;
+    }
+    
+    .raffle-condition > span {
+        font-size: 16px;
+    }
+    
+    .raffle-condition {
+        padding: 35px;
+        padding-left: 50px;
+        right: -28px;
+        position: relative;
+        transform: unset;
+        width: max-content;
+        margin: auto;
+        z-index: 9;
+        margin: 40px auto;
+    }
+    img.eypiew {
+        left: 0;
+        width: 290px;
+    }
+    
+    img.gift2 {
+        right: 40px;
+        width: 130px;
+    }
+}
+
+ 
+/* small screen :320px. */
+@media (max-width: 767px) {
+    .register_content .form {
+        display: none;
+    }
+    
+    .logo-area {
+        max-width: 120px;
+        margin-bottom: -20px;
+    }
+    
+    .hero-area {
+        background-size: cover;
+        padding: 50px 0 96px;
+    }
+
+section.hero-area.ld_hero {
+    padding-bottom: 70px;
+}
+
+section.hero-area.reg_hero {}
+    
+    img.character_parachute {
+        width: 125px;
+        right: 50px;
+        top: 25px;
+        display: none;
+    }
+    
+    img.Slot-masin {
+        width: 109px;
+        bottom: -20px;
+        left: 10px;
+        display: none;
+    }
+    
+    img.Character_slot {
+        width: 89px;
+        left: 159px;
+        display: none;
+    }
+    
+    img.ether {
+        width: 60px;
+        right: 65px;
+        display: none;
+    }
+    
+    img.board_slot {
+        width: 136px;
+        bottom: -41px;
+    }
+    
+    img.Linesvg {
+        display: none;
+    }
+    
+    .register_content {
+        padding: 0px 0;
+        width: 100%;
+    }
+    
+    img.Btc {
+        width: 40px;
+        top: 80px;
+        left: 30px;
+    }
+    
+    .sec_title p {
+        font-size: 18px;
+        line-height: 1.3;
+    }
+    
+    .bonus_card {
+        margin-bottom: 50px;
+        padding-top: 70px;
+        max-width: 350px;
+    }
+    
+    img.Chest {
+        width: 110px;
+        right: 5px;
+        bottom: -15px;
+    }
+    
+    img.Mascott {
+        width: 100px;
+    }
+    
+    img.Diamond {
+        width: 30px;
+        left: 40px;
+    }
+    
+    .footer_content {
+        flex-direction: column;
+    }
+
+.Disclaimer {
+    text-align: center;
+}
+    
+    i.separet {
+        width: 100%;
+        height: 1px;
+        margin: 20px 0;
+    }
+    
+    .Disclaimer_box {
+        max-width: 630px;
+    }
+    
+    a.f-logo {
+        rotate: 0deg;
+        max-width: 160px;
+    }
+    
+    footer.footer-area {
+        padding: 30px 0;
+    }
+    
+    .copyright {
+        margin: auto;
+    }
+    
+    .bonus-Area {
+        padding-bottom: 70px;
+    }
+    .register_text {
+        padding: 0 20px;
+    }
+    
+    .register_text h3 {
+        font-size: 16px;
+    }
+    
+    .register_text p {
+        font-size: 16px;
+    }
+    
+    .in_FOSS span {
+        font-size: 18px;
+    }
+    
+    .thm_btn {
+        font-size: 18px;
+        height: 50px;
+    }
+    
+    .bonus_content {
+        padding-top: 70px;
+        padding-right: 20px;
+    }
+    
+    img.Mascott {
+        width: 60px;
+    }
+    
+    .sec_title {
+        margin-bottom: 50px;
+    }
+    .hero_content h2 {
+        font-size: 34px;
+    }
+    
+    .hero_content h2 img {
+        width: 85px;
+    }
+    
+    .hero_content h4 {
+        font-size: 22px;
+    }
+    .reg_hero .hero_content {
+        margin-bottom: 60px;
+        margin-top: 25px;
+    }
+    
+    .reg_content i a {
+        font-size: 16px;
+        padding: 15px 15px;
+    }
+    
+    .reg_info {
+        margin: auto;
+    }
+    
+    .reg_info p {
+        border-radius: 20px;
+    }
+    .bonus-Area {
+        padding-bottom: 100px;
+    }
+
+.bonus-Area img.Btc {
+    top: 40px;
+}
+
+    .reg_content {
+        flex-direction: column-reverse;
+        justify-content: center;
+        margin-bottom: -50px;
+    }
+    
+    .visit_content {
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    
+    .reg_content > i {
+        max-width: 600px;
+        margin: auto;
+        bottom: 0;
+        display: none;
+    }
+
+    img.Character_idk {
+        display: none;
+    }
+    
+    .visit_content p {
+        font-size: 16px;
+    }
+    
+    img.Btc-2 {
+        width: 60px;
+        display: none;
+    }
+    
+    .register-area {padding: 50px 0;}
+    
+    
+    .reg_info img {
+        width: 250px;
+    }
+    
+    .inter_code .register_text p {
+        margin: 35px 10px;
+    }
+    
+    .inter_code a.thm_btn.v2 {
+        width: 200px;
+        padding-left: 35px;
+    }
+    .Tickets-all {
+        max-width: 315px;
+        top: -145px;
+    }
+    
+    img.Mascott_ld {
+        width: 85px;
+        top: -91px;
+    }
+    
+    img.Btc3 {
+        width: 50px;
+        left: 30px;
+        top: 224px;
+    }
+    
+    .LEADERBOARD_list li > div {
+        font-size: 14px;
+    }
+    
+    .LEADERBOARD_list {
+        padding: 15px;
+        margin-top: 180px;
+    }
+    
+    .LEADERBOARD_list li.title > div:last-child {
+        font-size: 14px;
+    }
+    
+    .LEADERBOARD_list li > div.num {
+        font-size: 16px;
+    }
+    
+    .LEADERBOARD_list li > div:last-child {
+        font-size: 16px;
+    }
+    
+    .LEADERBOARD_list ul li {
+        height: 27px;
+        margin-bottom: 10px;
+    }
+    
+    .LEADERBOARD_list ul li img.list-bg {
+        height: 100%;
+    }
+    .raffle_top {
+        top: -104px;
+    }
+    
+    form.raffle-form button {
+        margin-top: 0;
+    }
+    
+    .raffle-condition > span {
+        font-size: 16px;
+    }
+    
+    .raffle-condition {
+        padding: 35px;
+        padding-left: 24px;
+        right: 0;
+        position: relative;
+        transform: unset;
+        margin: auto;
+        z-index: 9;
+        margin: 28px auto;
+        margin-top: 0;
+    }
+    img.eypiew {
+        left: 0;
+        width: 290px;
+    }
+    
+    img.gift2 {
+        right: 40px;
+        width: 97px;
+        bottom: -21px;
+    }
+    img.eypiew {
+        width: 205px;
+        left: 0;
+    }
+    
+    .header-area {
+        margin-top: -7px;
+    }
+    .raffle-inp-blk input {
+        padding: 5px 13px;
+        width: 100%;
+    }
+    
+    .stars > img.captcha {
+    }
+    
+    .raffle-condition p {
+        font-size: 14px;
+    }
+    
+    section.rafle-area {
+        padding-top: 65px;
+    }
+    img.Diamond2 {
+        display: none;
+    }
+    
+    img.ether2 {
+        display: none;
+    }
+}
+ 
+/* Large Mobile screen :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+ 
+}
